@@ -1,4 +1,4 @@
-# Olá sou Desenvolvedor Web Lucas Epifanio
+# Olá sou Desenvolvedor Front-end e Web Lucas Epifanio
 🧑‍🌾Trabalhando atualmente em uma Empresa Agro na parte do Desenvolvimento Web.
 <br>
 📘 Cursando Engenharia de Software na FIAP.
