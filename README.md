@@ -2,6 +2,7 @@
 🧑‍🌾Trabalhando atualmente em uma Empresa Agro na parte do Desenvolvimento Web.
 <br>
 📕 Cursando Engenharia de Software na FIAP.
+<br>
 📘 Cursando o Ensino de Tecnologia Alura.
 <br>
 👌Especialista na área do Front-end.
