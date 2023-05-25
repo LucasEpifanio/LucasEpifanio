@@ -8,6 +8,7 @@
 👌Especialista na área do Front-end.
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasepifanio&layout=compact&langs_count-16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/username=lucasepifanio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
