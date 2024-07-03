@@ -1,5 +1,5 @@
 # Olá sou Desenvolvedor Front-end e Web Lucas Epifanio
-Trabalho como Fullstack junior na Empresa BRVR.
+Trabalhei como Fullstack junior na Empresa BRVR.
 <br>
 📕 Cursando Engenharia de Software na FIAP.
 <br>
