@@ -4,11 +4,11 @@
 <br>
 📘 Cursando o Ensino de Tecnologia Alura.
 <br>
-👌Especialista na área do Front-end.
+👌Especialista na área de Front-end.
 <br>
  Veja no meu Repositorio um pouco dos projetos que ja Desenvolvi. 
  <br>
- Pode abri-los no vercel.
+ Pode abri-los na vercel.
  <br>
 <div>
  <a href="https://github.com/LucasEpifanio">
